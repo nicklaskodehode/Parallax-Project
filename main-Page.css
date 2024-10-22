@@ -3,15 +3,15 @@ body{
     margin: 0;
 }
 .pic1{
-    background-image: url(/Pictures/Image1.jpg);
+    background-image: url(./Pictures/Image1.jpg);
     min-height: 800px;
 }
 .pic2{
-    background-image: url(/Pictures/Image2.jpg);
+    background-image: url(./Pictures/Image2.jpg);
     min-height: 500px;
 }
 .pic3{
-    background-image: url(/Pictures/Image3.jpg);
+    background-image: url(./Pictures/Image3.jpg);
     min-height: 500px;
 }
 .pic1, .pic2, .pic3{
